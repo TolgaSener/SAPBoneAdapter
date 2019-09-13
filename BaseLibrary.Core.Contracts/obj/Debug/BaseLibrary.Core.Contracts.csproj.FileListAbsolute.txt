@@ -1,0 +1,6 @@
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\bin\Debug\BaseLibrary.Core.Contracts.dll
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\bin\Debug\BaseLibrary.Core.Contracts.pdb
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\bin\Debug\SAPBusinessOneSDK.dll
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\obj\Debug\BaseLibrary.Core.Contracts.csprojResolveAssemblyReference.cache
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\obj\Debug\BaseLibrary.Core.Contracts.dll
+K:\NarKonTesk-master\BaseLibrary.Core.Contracts\obj\Debug\BaseLibrary.Core.Contracts.pdb
