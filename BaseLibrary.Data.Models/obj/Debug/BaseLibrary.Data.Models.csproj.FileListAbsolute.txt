@@ -1,0 +1,14 @@
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.Models.dll.config
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.Models.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.Models.pdb
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.WebService.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\EntityFramework.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\SAPBusinessOneSDK.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.WebService.pdb
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\BaseLibrary.Data.WebService.dll.config
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\EntityFramework.xml
+K:\NarKonTesk-master\BaseLibrary.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+K:\NarKonTesk-master\BaseLibrary.Data.Models\obj\Debug\BaseLibrary.Data.Models.csprojResolveAssemblyReference.cache
+K:\NarKonTesk-master\BaseLibrary.Data.Models\obj\Debug\BaseLibrary.Data.Models.dll
+K:\NarKonTesk-master\BaseLibrary.Data.Models\obj\Debug\BaseLibrary.Data.Models.pdb
