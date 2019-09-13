@@ -1,0 +1,17 @@
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Core.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Core.pdb
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Core.Contracts.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Data.Models.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\Castle.Core.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\Castle.Windsor.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\SAPBusinessOneSDK.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\EntityFramework.dll
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Core.Contracts.pdb
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Data.Models.pdb
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\BaseLibrary.Data.Models.dll.config
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\Castle.Core.xml
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\Castle.Windsor.xml
+K:\NarKonTesk-master\BaseLibrary.Core\bin\Debug\EntityFramework.xml
+K:\NarKonTesk-master\BaseLibrary.Core\obj\Debug\BaseLibrary.Core.csprojResolveAssemblyReference.cache
+K:\NarKonTesk-master\BaseLibrary.Core\obj\Debug\BaseLibrary.Core.dll
+K:\NarKonTesk-master\BaseLibrary.Core\obj\Debug\BaseLibrary.Core.pdb
